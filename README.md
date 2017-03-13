@@ -1,5 +1,6 @@
 # Paste this code into the layout file (activity_main.xml):
 
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 
 <RelativeLayout
@@ -20,3 +21,4 @@
         android:text="Hello World!" />
         
 </RelativeLayout>
+```
